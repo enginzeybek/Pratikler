@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\bin\Debug\net8.0\For Loop ve Break Continue Ifadeleri.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\refint\For Loop ve Break Continue Ifadeleri.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\For Loop ve Break Continue Ifadeleri.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\For Loop ve Break Continue Ifadeleri\obj\Debug\net8.0\ref\For Loop ve Break Continue Ifadeleri.dll
