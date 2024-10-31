@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\bin\Debug\net8.0\Döngülerle_Dizi_Kullanımı.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\bin\Debug\net8.0\Döngülerle_Dizi_Kullanımı.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\bin\Debug\net8.0\Döngülerle_Dizi_Kullanımı.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\bin\Debug\net8.0\Döngülerle_Dizi_Kullanımı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\bin\Debug\net8.0\Döngülerle_Dizi_Kullanımı.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\refint\Döngülerle_Dizi_Kullanımı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\Döngülerle_Dizi_Kullanımı.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Döngülerle_Dizi_Kullanımı\obj\Debug\net8.0\ref\Döngülerle_Dizi_Kullanımı.dll
