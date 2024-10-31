@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\bin\Debug\net8.0\While_Foreach.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\bin\Debug\net8.0\While_Foreach.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\bin\Debug\net8.0\While_Foreach.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\bin\Debug\net8.0\While_Foreach.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\bin\Debug\net8.0\While_Foreach.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\refint\While_Foreach.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\While_Foreach.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\While_Foreach\obj\Debug\net8.0\ref\While_Foreach.dll
