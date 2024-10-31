@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\bin\Debug\net8.0\Array_Sınıfı_Methodları.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\bin\Debug\net8.0\Array_Sınıfı_Methodları.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\bin\Debug\net8.0\Array_Sınıfı_Methodları.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\bin\Debug\net8.0\Array_Sınıfı_Methodları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\bin\Debug\net8.0\Array_Sınıfı_Methodları.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\refint\Array_Sınıfı_Methodları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\Array_Sınıfı_Methodları.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Array_Sınıfı_Methodları\obj\Debug\net8.0\ref\Array_Sınıfı_Methodları.dll
