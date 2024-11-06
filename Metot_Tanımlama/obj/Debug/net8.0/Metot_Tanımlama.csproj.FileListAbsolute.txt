@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\bin\Debug\net8.0\Metot_Tanımlama.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\bin\Debug\net8.0\Metot_Tanımlama.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\bin\Debug\net8.0\Metot_Tanımlama.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\bin\Debug\net8.0\Metot_Tanımlama.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\bin\Debug\net8.0\Metot_Tanımlama.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\refint\Metot_Tanımlama.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\Metot_Tanımlama.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Metot_Tanımlama\obj\Debug\net8.0\ref\Metot_Tanımlama.dll
