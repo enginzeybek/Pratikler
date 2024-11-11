@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\bin\Debug\net8.0\Ödev_1.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\bin\Debug\net8.0\Ödev_1.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\bin\Debug\net8.0\Ödev_1.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\bin\Debug\net8.0\Ödev_1.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\bin\Debug\net8.0\Ödev_1.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\refint\Ödev_1.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\Ödev_1.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Ödev_1\obj\Debug\net8.0\ref\Ödev_1.dll
