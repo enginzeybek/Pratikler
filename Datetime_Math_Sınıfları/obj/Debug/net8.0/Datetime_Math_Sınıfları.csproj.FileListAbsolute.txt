@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\bin\Debug\net8.0\Datetime_Math_Sınıfları.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\bin\Debug\net8.0\Datetime_Math_Sınıfları.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\bin\Debug\net8.0\Datetime_Math_Sınıfları.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\bin\Debug\net8.0\Datetime_Math_Sınıfları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\bin\Debug\net8.0\Datetime_Math_Sınıfları.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\refint\Datetime_Math_Sınıfları.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\Datetime_Math_Sınıfları.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Datetime_Math_Sınıfları\obj\Debug\net8.0\ref\Datetime_Math_Sınıfları.dll
