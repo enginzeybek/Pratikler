@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\bin\Debug\net8.0\Generic Koleksiyonlar ve List.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\bin\Debug\net8.0\Generic Koleksiyonlar ve List.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\bin\Debug\net8.0\Generic Koleksiyonlar ve List.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\bin\Debug\net8.0\Generic Koleksiyonlar ve List.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\bin\Debug\net8.0\Generic Koleksiyonlar ve List.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\refint\Generic Koleksiyonlar ve List.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\Generic Koleksiyonlar ve List.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Generic Koleksiyonlar ve List\obj\Debug\net8.0\ref\Generic Koleksiyonlar ve List.dll
