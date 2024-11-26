@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\bin\Debug\net8.0\ArrayList.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\bin\Debug\net8.0\ArrayList.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
