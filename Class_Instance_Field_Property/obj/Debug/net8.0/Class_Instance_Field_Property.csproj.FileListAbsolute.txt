@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\bin\Debug\net8.0\Class_Instance_Field_Property.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\bin\Debug\net8.0\Class_Instance_Field_Property.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\bin\Debug\net8.0\Class_Instance_Field_Property.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\bin\Debug\net8.0\Class_Instance_Field_Property.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\bin\Debug\net8.0\Class_Instance_Field_Property.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\refint\Class_Instance_Field_Property.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\Class_Instance_Field_Property.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Class_Instance_Field_Property\obj\Debug\net8.0\ref\Class_Instance_Field_Property.dll
