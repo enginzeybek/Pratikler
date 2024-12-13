@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\refint\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Erişim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net8.0\ref\Erişim Belirleyiciler ve Kurucu Fonksiyonlar.dll
