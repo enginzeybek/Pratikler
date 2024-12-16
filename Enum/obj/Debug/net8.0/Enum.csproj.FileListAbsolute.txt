@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\bin\Debug\net8.0\Enum.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\bin\Debug\net8.0\Enum.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\bin\Debug\net8.0\Enum.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\bin\Debug\net8.0\Enum.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\refint\Enum.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Enum\obj\Debug\net8.0\ref\Enum.dll
