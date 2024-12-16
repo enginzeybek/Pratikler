@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\bin\Debug\net8.0\Encapsulation ve Property Kavramı.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\refint\Encapsulation ve Property Kavramı.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\Encapsulation ve Property Kavramı.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Encapsulation ve Property Kavramı\obj\Debug\net8.0\ref\Encapsulation ve Property Kavramı.dll
