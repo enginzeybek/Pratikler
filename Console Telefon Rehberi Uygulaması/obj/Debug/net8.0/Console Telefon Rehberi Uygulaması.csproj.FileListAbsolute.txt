@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Console Telefon Rehberi Uygulaması.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Console Telefon Rehberi Uygulaması.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Console Telefon Rehberi Uygulaması.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Console Telefon Rehberi Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\bin\Debug\net8.0\Console Telefon Rehberi Uygulaması.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\refint\Console Telefon Rehberi Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\Console Telefon Rehberi Uygulaması.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Console Telefon Rehberi Uygulaması\obj\Debug\net8.0\ref\Console Telefon Rehberi Uygulaması.dll
