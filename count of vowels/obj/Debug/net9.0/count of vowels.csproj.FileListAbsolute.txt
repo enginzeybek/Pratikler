@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\bin\Debug\net9.0\count of vowels.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\bin\Debug\net9.0\count of vowels.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\bin\Debug\net9.0\count of vowels.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\bin\Debug\net9.0\count of vowels.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\bin\Debug\net9.0\count of vowels.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\refint\count of vowels.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\count of vowels.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\count of vowels\obj\Debug\net9.0\ref\count of vowels.dll
