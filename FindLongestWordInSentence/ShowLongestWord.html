@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <title>En Uzun Kelimeyi Bulma Sayfası</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="table text-center border-radius">
+                    <div class="table-header">
+                        <h3><span>EN UZUN KELİMEYİ BULMA</span></h3>
+                    </div>
+                    <div class="table-body">
+                        <label for="Sentence">Kelimeyi Gir</label>
+                        <input id="Sentence" type="text"/>
+                    </div>
+                    <div class="table-footer">
+                        <button type="submit" class="btn btn-danger" onclick="EnUzunKelimeyiBul()">EKLE</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="card text-center">
+                    <div class="card-header">
+                        <h4>EN UZUN KELİME AŞAĞIDAKİ GİBİDİR</h4>
+                    </div>
+                    <div class="card-body">
+                        <p id="LongestWord">Kelime Burada Görünecek</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="FindLongestWord.js"></script>
+</body>
+</html>
