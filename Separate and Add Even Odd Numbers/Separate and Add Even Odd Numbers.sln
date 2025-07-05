@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Separate and Add Even Odd Numbers", "Separate and Add Even Odd Numbers.csproj", "{A73036A9-FE73-4388-3303-78440BC7B94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73036A9-FE73-4388-3303-78440BC7B94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73036A9-FE73-4388-3303-78440BC7B94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73036A9-FE73-4388-3303-78440BC7B94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73036A9-FE73-4388-3303-78440BC7B94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF404E84-AA79-4D7B-A21F-B84D690F4664}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\bin\Debug\net9.0\Separate and Add Even Odd Numbers.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\bin\Debug\net9.0\Separate and Add Even Odd Numbers.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\bin\Debug\net9.0\Separate and Add Even Odd Numbers.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\bin\Debug\net9.0\Separate and Add Even Odd Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\bin\Debug\net9.0\Separate and Add Even Odd Numbers.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\refint\Separate and Add Even Odd Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\Separate and Add Even Odd Numbers.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Separate and Add Even Odd Numbers\obj\Debug\net9.0\ref\Separate and Add Even Odd Numbers.dll
