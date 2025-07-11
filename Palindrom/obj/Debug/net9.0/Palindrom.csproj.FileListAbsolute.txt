@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\bin\Debug\net9.0\Palindrom.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\bin\Debug\net9.0\Palindrom.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\bin\Debug\net9.0\Palindrom.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\bin\Debug\net9.0\Palindrom.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\bin\Debug\net9.0\Palindrom.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\refint\Palindrom.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\Palindrom.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Palindrom\obj\Debug\net9.0\ref\Palindrom.dll
