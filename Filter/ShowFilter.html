@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çift Sayıları Göster</title>
+</head>
+<body>
+    <h1>GİRİLEN ÇİFT SAYILAR</h1>
+    <p id="Even"></p>
+    <script>
+        (()=>
+        {
+            let Numbers = prompt("SAYILARI VİRGÜL İLE AYIRARAK GİRİNİZ")
+
+            let ArrayNumbers = Numbers.split(",");
+
+            let ToArrayIntByNumbers = ArrayNumbers.map(Number);
+
+            let evenNumbers = ToArrayIntByNumbers.filter(n => n % 2 === 0);
+
+            document.getElementById("Even").innerText = evenNumbers.join(", ");
+        })();
+    </script>
+</body>
+</html>
