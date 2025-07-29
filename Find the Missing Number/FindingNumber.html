@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <title>Eksik sayıyı bulma sayfası</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container mt-5">
+        <div class="card-body text-transform:capitalize p-4">
+            <h3>EKSİK SAYI</h3>
+            <p id="Find">Eksik sayı burada görünecek</p>
+        </div>
+        </div>
+    </div>
+    <script>
+        let numbers = [1,3,4,5,6,7,8,9,10]
+        var clientNumber = prompt("BİRDEN ONA KADAR BİR EKSİK SAYIYI BULUN")
+        for (let i = 0; i < numbers.length; i++) {
+            if (clientNumber != numbers[i]) {
+                document.getElementById("Find").innerText = "Eksik Sayı: " + clientNumber 
+            }else{
+                window.alert("BU EKSİK SAYI DEĞİL")
+            }  
+        }
+    </script>
+</body>
+</html>
