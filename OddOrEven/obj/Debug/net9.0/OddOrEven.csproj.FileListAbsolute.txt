@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\bin\Debug\net9.0\OddOrEven.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\bin\Debug\net9.0\OddOrEven.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\bin\Debug\net9.0\OddOrEven.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\bin\Debug\net9.0\OddOrEven.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\bin\Debug\net9.0\OddOrEven.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\refint\OddOrEven.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\OddOrEven.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\OddOrEven\obj\Debug\net9.0\ref\OddOrEven.dll
