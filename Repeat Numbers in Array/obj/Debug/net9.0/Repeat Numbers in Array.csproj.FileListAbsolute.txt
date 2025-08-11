@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\bin\Debug\net9.0\Repeat Numbers in Array.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\bin\Debug\net9.0\Repeat Numbers in Array.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\bin\Debug\net9.0\Repeat Numbers in Array.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\bin\Debug\net9.0\Repeat Numbers in Array.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\bin\Debug\net9.0\Repeat Numbers in Array.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\refint\Repeat Numbers in Array.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\Repeat Numbers in Array.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Repeat Numbers in Array\obj\Debug\net9.0\ref\Repeat Numbers in Array.dll
