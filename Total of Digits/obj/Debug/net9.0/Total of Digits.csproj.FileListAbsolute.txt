@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\bin\Debug\net9.0\Total of Digits.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\bin\Debug\net9.0\Total of Digits.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\bin\Debug\net9.0\Total of Digits.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\bin\Debug\net9.0\Total of Digits.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\bin\Debug\net9.0\Total of Digits.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\refint\Total of Digits.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\Total of Digits.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Total of Digits\obj\Debug\net9.0\ref\Total of Digits.dll
