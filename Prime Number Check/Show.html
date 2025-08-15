@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Asal Sayı Kontrolü</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container mt-5">
+            <div class="row justify-content-center">
+                <div class="card p-4" style="width: 300px;">
+                    <h4>Asal Sayı Kontrolü</h4>
+                    <input type="number" id="Sayi" class="form-control my-2" placeholder="Sayı giriniz">
+                    <button class="btn btn-primary" onclick="findAsal()">Kontrol Et</button>
+                    <p id="Asal" class="mt-3"></p>
+                </div>
+            </div>
+        </div>
+    </div> 
+    <script>
+        function findAsal() {
+            let clientStrNumber = document.getElementById("Sayi").value;
+            let n = parseInt(clientStrNumber);
+
+            if (isNaN(n) || n <= 1) {
+                document.getElementById("Asal").innerText = "Lütfen 1'den büyük pozitif bir sayı giriniz.";
+                return;
+            }
+
+            let asal = true;
+            for (let i = 2; i <= Math.sqrt(n); i++) {
+                if (n % i === 0) {
+                    asal = false;
+                    break;
+                }
+            }
+
+            if (asal) {
+                document.getElementById("Asal").innerText = n + " ASAL SAYIDIR";
+            } else {
+                document.getElementById("Asal").innerText = n + " ASAL SAYI DEĞİLDİR";
+            }
+        }
+    </script>
+</body>
+</html>
