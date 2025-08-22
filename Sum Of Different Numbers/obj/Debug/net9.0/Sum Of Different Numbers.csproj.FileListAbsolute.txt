@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\bin\Debug\net9.0\Sum Of Different Numbers.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\bin\Debug\net9.0\Sum Of Different Numbers.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\bin\Debug\net9.0\Sum Of Different Numbers.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\bin\Debug\net9.0\Sum Of Different Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\bin\Debug\net9.0\Sum Of Different Numbers.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\refint\Sum Of Different Numbers.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\Sum Of Different Numbers.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Sum Of Different Numbers\obj\Debug\net9.0\ref\Sum Of Different Numbers.dll
