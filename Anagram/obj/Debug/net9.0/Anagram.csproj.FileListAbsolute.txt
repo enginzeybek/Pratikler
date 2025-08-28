@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\bin\Debug\net9.0\Anagram.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\bin\Debug\net9.0\Anagram.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\bin\Debug\net9.0\Anagram.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\bin\Debug\net9.0\Anagram.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\bin\Debug\net9.0\Anagram.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\refint\Anagram.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\Anagram.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Anagram\obj\Debug\net9.0\ref\Anagram.dll
