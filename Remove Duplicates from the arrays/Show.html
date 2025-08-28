@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <title>Dizide Tekrarlayanları Kaldır</title>
+</head>
+<body>
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p id="Sayilar"></p>
+                    </div>
+                    <button type="submit" onclick="removeDuplicates()" class="btn btn-primary">Göster</button>
+                </div>              
+            </div>
+        </div>
+    </div>
+    <script>
+        function removeDuplicates() {
+            let strNumbers = prompt("Aralara virgül koyarak rakamlar giriniz");
+            if (!strNumbers) {
+                alert("Lütfen geçerli bir giriş yapın!");
+                return;
+            }
+
+            let intArrayNumbers = strNumbers.split(",").map(Number);
+
+            let uniqueNumbers = [...new Set(intArrayNumbers)];
+
+            document.getElementById("Sayilar").innerText = `Girilen sayılar: ${uniqueNumbers.join(", ")}`;
+        }
+        
+    </script>
+</body>
+</html>
