@@ -1,0 +1,15 @@
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\bin\Debug\net9.0\Square Even Numbers With Csharp.exe
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\bin\Debug\net9.0\Square Even Numbers With Csharp.deps.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\bin\Debug\net9.0\Square Even Numbers With Csharp.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\bin\Debug\net9.0\Square Even Numbers With Csharp.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\bin\Debug\net9.0\Square Even Numbers With Csharp.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.sourcelink.json
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\refint\Square Even Numbers With Csharp.dll
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.pdb
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\Square Even Numbers With Csharp.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\Pratikler\Square Even Numbers With Csharp\obj\Debug\net9.0\ref\Square Even Numbers With Csharp.dll
